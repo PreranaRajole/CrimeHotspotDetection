@@ -1,6 +1,8 @@
 # Crime Hotspot Detection
 This repository holds the code for my capstone project during my undergrad.
 
+Link to published paper - https://link.springer.com/chapter/10.1007/978-981-99-3481-2_8
+
 Link to the trained model - https://drive.google.com/drive/folders/1LWKzbMiV-Ix4Wsw0kIfpyNfjWFONH2WN?usp=sharing
 
 **VISUALIZATION OF CRIME HOTSPOTS THROUGH ANALYSIS OF ONLINE NEWSPAPER ARTICLES**
